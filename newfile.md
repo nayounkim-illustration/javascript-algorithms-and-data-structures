@@ -10,6 +10,15 @@
 - mkdir : make directory.
 - touch + file name: create a file.
 
+## How to git push ##
+1. edit file
+2. ctrl+s (remove dot)
+3. stage change
+4. add Message
+5. commit
+6. go to Terminal
+7. git push
+8. ctrl + link
  
 
 
