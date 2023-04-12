@@ -9,3 +9,28 @@ _Learning note for FCC's_ [**JavaScript Algorithms and Data Structures**](https:
 - "* *" or "_ _" === Italic
 - "** **' or "_ _" === Bold
 - "*** ***" === All Bold and Italic
+- \```js === javascript
+- \```html === html
+
+
+## Switch Statements ##
+
+```js 
+ let result = " "; 
+ switch (val) {
+    case1:
+    case2:
+    case3:
+     result = "1,2 or 3";
+     break;
+    case4:
+     result = "4 alone"
+
+ }
+ 
+```
+ 
+ 
+ 
+ 
+ 
